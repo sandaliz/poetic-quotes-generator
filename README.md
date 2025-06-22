@@ -24,9 +24,6 @@ Powered by **OpenAI** and **unsplash**, this tiny poetic engine blends text gene
 | npm install
 | npm run dev
 
-
-## 💡 Inspiration
-
 Inspired by [Scrimba](https://scrimba.com/)
 
 ## 📸 Example
