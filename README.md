@@ -1,10 +1,10 @@
-Powered by **OpenAI** and **Upstash**, this tiny poetic engine blends text generation with visual charm. Whether you're feeling existential, romantic, or just plain dramatic—we gotchu.
+Powered by **OpenAI** and **unsplash**, this tiny poetic engine blends text generation with visual charm. Whether you're feeling existential, romantic, or just plain dramatic—we gotchu.
 
 ## 🔍 Features
 
 - ✨ OpenAI-powered quote generation  
 - 📸 Themed images fetched from external APIs  
-- 🧵 Serverless rate limiting using **Upstash Redis**  
+- 🧵 Serverless rate limiting using **unsplash Redis**  
 - 🧘‍♀️ Lightweight, minimal, and zen-like
 
 ## 🗂️ Tech Stack
@@ -13,8 +13,8 @@ Powered by **OpenAI** and **Upstash**, this tiny poetic engine blends text gener
 - **CSS**  
 - **JavaScript (Vanilla)**  
 - **OpenAI API** – for generating poetic quotes  
-- **Unsplash API** – for fetching relevant images  
-- **Upstash Redis** – used for rate limiting (via serverless call in `utils.js`)
+- **unsplash API** – for fetching relevant images  
+- **unsplash Redis** – used for rate limiting (via serverless call in `utils.js`)
  
 - Styled with css 
 
