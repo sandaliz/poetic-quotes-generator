@@ -17,7 +17,7 @@ Powered by **OpenAI** and **unsplash**, this tiny poetic engine blends text gene
 
 🔗 [Try it here!](https://sandaliz.github.io/poetic-quotes-generator/)
 
-## 🏃‍♀️ How to create ur own and run on ur machine
+## 🏃‍♀️ Run on machine
 
 | git clone https://github.com/sandaliz/poetic-quotes-generator.git
 | cd poetic-quotes-generator
