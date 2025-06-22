@@ -15,9 +15,10 @@ Powered by **OpenAI** and **unsplash**, this tiny poetic engine blends text gene
 - OpenAI API – for generating poetic quotes  
 - unsplash API – for fetching relevant images  
 
-## 🏃‍♀️ How to Run
+🔗 [Try it here!](https://sandaliz.github.io/poetic-quotes-generator/)terminal:
 
-terminal:
+## 🏃‍♀️ How to create ur own and run on ur machine
+
 | git clone https://github.com/sandaliz/poetic-quotes-generator.git
 | cd poetic-quotes-generator
 | npm install
