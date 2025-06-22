@@ -80,7 +80,6 @@ async function getQuote(favActivity, favPlace, temperature) {
 
   localStorage.setItem("quotePrompt", quotePrompt)
 
-  localStorage.setItem("quotePrompt", quotePrompt)
   let body = {
     model: "text-davinci-003",
     prompt: quotePrompt,
@@ -104,3 +103,4 @@ async function getQuote(favActivity, favPlace, temperature) {
   localStorage.setItem("quote", newQuote)
   return newQuote
 }
+
