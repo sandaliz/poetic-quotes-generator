@@ -9,14 +9,11 @@ Powered by **OpenAI** and **unsplash**, this tiny poetic engine blends text gene
 
 ## 🗂️ Tech Stack
 
-- **HTML**  
-- **CSS**  
-- **JavaScript (Vanilla)**  
-- **OpenAI API** – for generating poetic quotes  
-- **unsplash API** – for fetching relevant images  
-- **unsplash Redis** – used for rate limiting (via serverless call in `utils.js`)
- 
-- Styled with css 
+- JavaScript (Vanilla)
+- HTML  
+- CSS  
+- OpenAI API – for generating poetic quotes  
+- unsplash API – for fetching relevant images  
 
 ## 🏃‍♀️ How to Run
 
