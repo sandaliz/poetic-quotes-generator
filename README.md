@@ -1,4 +1,4 @@
-Powered by **OpenAI** and **unsplash**, this tiny poetic engine blends text generation with visual charm. Whether you're feeling existential, romantic, or just plain dramatic—this is the way
+Powered by **OpenAI** and **unsplash**, this tiny poetic engine blends text generation with visual charm. Whether you're feeling existential, romantic, or just plain dramatic-this is the way
 
 ## 🔍 Features
 
