@@ -1,10 +1,10 @@
 import { generateTextAndImage } from "./utils.js"
 
-let name = "sandaliz"
+let name = "ashoka"
 
-let favoriteActivity = "watching  movies and tv series"
+let favoriteActivity = "Gardening"
 
-let favoritePlace = "anywhere with my favourite people"
+let favoritePlace = "home"
 
 // The higher temperature, the more random & experimental output(from 0 to 1)
 let temperature = 0.6
