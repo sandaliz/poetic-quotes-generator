@@ -1,13 +1,13 @@
 Powered by **OpenAI** and **unsplash**, this tiny poetic engine blends text generation with visual charm. Whether you're feeling existential, romantic, or just plain dramatic-this is the way
 
-## 🔍 Features
+##  Features
 
-- ✨ OpenAI-powered quote generation  
-- 📸 Themed images fetched from external APIs  
-- 🧵 Serverless rate limiting using **unsplash Redis**  
-- 🧘‍♀️ Lightweight, minimal, and zen-like
+- OpenAI-powered quote generation  
+- Themed images fetched from external APIs  
+- Serverless rate limiting using **unsplash Redis**  
+- Lightweight, minimal, and Oscar Wlide-style
 
-## 🗂️ Tech Stack
+##  Tech Stack
 
 - JavaScript (Vanilla)
 - HTML  
@@ -17,12 +17,14 @@ Powered by **OpenAI** and **unsplash**, this tiny poetic engine blends text gene
 
 🔗 [Try it here!](https://sandaliz.github.io/poetic-quotes-generator/)
 
-## 🏃‍♀️ Run on machine
+##  Run on machine
 
 | git clone https://github.com/sandaliz/poetic-quotes-generator.git
 | cd poetic-quotes-generator
 | npm install
 | npm run dev
+
+|can change index.js get personalized output
 
 Inspired by [Scrimba](https://scrimba.com/)
 
